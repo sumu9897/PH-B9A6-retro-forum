@@ -1,2 +1,21 @@
-live link: 
-https://scooby-forum.netlify.app/
+# B9A6-Retro-Forum
+
+
+# API
+
+LatestPosts: - https://openapi.programming-hero.com/api/retro-forum/latest-posts
+
+AllPosts: - https://openapi.programming-hero.com/api/retro-forum/posts
+
+## PostSearchByQuery
+
+PostByQuery: -  https://openapi.programming-hero.com/api/retro-forum/posts?category=categoryName
+
+
+### Example
+
+PostByQuery: - https://openapi.programming-hero.com/api/retro-forum/posts?category=coding
+
+
+
+
