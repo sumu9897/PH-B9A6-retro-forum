@@ -1,6 +1,3 @@
-# B9A6-Retro-Forum
-
-
 # API
 
 LatestPosts: - https://openapi.programming-hero.com/api/retro-forum/latest-posts
